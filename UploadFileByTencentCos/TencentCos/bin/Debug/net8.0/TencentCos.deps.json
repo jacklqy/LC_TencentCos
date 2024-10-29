@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TencentCos/1.0.0": {
+        "dependencies": {
+          "Tencent.QCloud.Cos.Sdk": "5.4.40"
+        },
+        "runtime": {
+          "TencentCos.dll": {}
+        }
+      },
+      "Tencent.QCloud.Cos.Sdk/5.4.40": {
+        "runtime": {
+          "lib/netstandard2.0/COSXML.dll": {
+            "assemblyVersion": "5.4.40.0",
+            "fileVersion": "5.4.40.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TencentCos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Tencent.QCloud.Cos.Sdk/5.4.40": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dVTceaOd2EKex07GynLDAaHLEJ9cWYIFXjS2yXPxTvLKTplnagtZT1sHLq1JuP7fhV9hNIi/VlJHBLU0cKGxRA==",
+      "path": "tencent.qcloud.cos.sdk/5.4.40",
+      "hashPath": "tencent.qcloud.cos.sdk.5.4.40.nupkg.sha512"
+    }
+  }
+}

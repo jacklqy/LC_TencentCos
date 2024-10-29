@@ -1,0 +1,127 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Tencent.QCloud.Cos.Sdk/5.4.40": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/COSXML.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/COSXML.dll": {}
+        }
+      },
+      "TencentCos/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Tencent.QCloud.Cos.Sdk": "5.4.40"
+        },
+        "compile": {
+          "bin/placeholder/TencentCos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TencentCos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tencent.QCloud.Cos.Sdk/5.4.40": {
+      "sha512": "dVTceaOd2EKex07GynLDAaHLEJ9cWYIFXjS2yXPxTvLKTplnagtZT1sHLq1JuP7fhV9hNIi/VlJHBLU0cKGxRA==",
+      "type": "package",
+      "path": "tencent.qcloud.cos.sdk/5.4.40",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net45/COSXML.dll",
+        "lib/netstandard2.0/COSXML.dll",
+        "tencent.qcloud.cos.sdk.5.4.40.nupkg.sha512",
+        "tencent.qcloud.cos.sdk.nuspec"
+      ]
+    },
+    "TencentCos/1.0.0": {
+      "type": "project",
+      "path": "../TencentCos/TencentCos.csproj",
+      "msbuildProject": "../TencentCos/TencentCos.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "TencentCos >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Administrator\\.nuget\\packages\\": {},
+    "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\UploadFileByTencentCos\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectName": "ConsoleApp1",
+      "projectPath": "E:\\UploadFileByTencentCos\\ConsoleApp1\\ConsoleApp1.csproj",
+      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+      "outputPath": "E:\\UploadFileByTencentCos\\ConsoleApp1\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nexus-rep.porton.cn/repository/nuget-group/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "E:\\UploadFileByTencentCos\\TencentCos\\TencentCos.csproj": {
+              "projectPath": "E:\\UploadFileByTencentCos\\TencentCos\\TencentCos.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

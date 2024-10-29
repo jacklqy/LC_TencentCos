@@ -1,0 +1,297 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\UploadFileByTencentCos\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D78B3DE-775A-43ED-98A3-999920EBE34E}|ConsoleApp1.csproj|e:\\uploadfilebytencentcos\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D78B3DE-775A-43ED-98A3-999920EBE34E}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFE3EF7-1200-45A9-906E-C695E25213AA}|..\\TencentCos\\TencentCos.csproj|e:\\uploadfilebytencentcos\\tencentcos\\client\\cosclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFE3EF7-1200-45A9-906E-C695E25213AA}|..\\TencentCos\\TencentCos.csproj|e:\\uploadfilebytencentcos\\tencentcos\\iclient\\ibucketclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFE3EF7-1200-45A9-906E-C695E25213AA}|..\\TencentCos\\TencentCos.csproj|e:\\uploadfilebytencentcos\\tencentcos\\basic\\cosconstargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFE3EF7-1200-45A9-906E-C695E25213AA}|..\\TencentCos\\TencentCos.csproj|e:\\uploadfilebytencentcos\\tencentcos\\client\\bucketclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFE3EF7-1200-45A9-906E-C695E25213AA}|..\\TencentCos\\TencentCos.csproj|e:\\uploadfilebytencentcos\\tencentcos\\basic\\cossingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFE3EF7-1200-45A9-906E-C695E25213AA}|..\\TencentCos\\TencentCos.csproj|e:\\uploadfilebytencentcos\\tencentcos\\basic\\cosresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFE3EF7-1200-45A9-906E-C695E25213AA}|..\\TencentCos\\TencentCos.csproj|e:\\uploadfilebytencentcos\\tencentcos\\basic\\cosbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFE3EF7-1200-45A9-906E-C695E25213AA}|..\\TencentCos\\TencentCos.csproj|e:\\uploadfilebytencentcos\\tencentcos\\iclient\\icosclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFE3EF7-1200-45A9-906E-C695E25213AA}|..\\TencentCos\\TencentCos.csproj|e:\\uploadfilebytencentcos\\tencentcos\\iclient\\ibaseclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EFE3EF7-1200-45A9-906E-C695E25213AA}|..\\TencentCos\\TencentCos.csproj|e:\\uploadfilebytencentcos\\tencentcos\\tencentcos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CosConstArgs.cs",
+              "DocumentMoniker": "E:\\UploadFileByTencentCos\\TencentCos\\Basic\\CosConstArgs.cs",
+              "RelativeDocumentMoniker": "..\\TencentCos\\Basic\\CosConstArgs.cs",
+              "ToolTip": "E:\\UploadFileByTencentCos\\TencentCos\\Basic\\CosConstArgs.cs",
+              "RelativeToolTip": "..\\TencentCos\\Basic\\CosConstArgs.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwC0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T02:02:20.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICosClient.cs",
+              "DocumentMoniker": "E:\\UploadFileByTencentCos\\TencentCos\\IClient\\ICosClient.cs",
+              "RelativeDocumentMoniker": "..\\TencentCos\\IClient\\ICosClient.cs",
+              "ToolTip": "E:\\UploadFileByTencentCos\\TencentCos\\IClient\\ICosClient.cs",
+              "RelativeToolTip": "..\\TencentCos\\IClient\\ICosClient.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAqwBwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T01:18:01.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IBucketClient.cs",
+              "DocumentMoniker": "E:\\UploadFileByTencentCos\\TencentCos\\IClient\\IBucketClient.cs",
+              "RelativeDocumentMoniker": "..\\TencentCos\\IClient\\IBucketClient.cs",
+              "ToolTip": "E:\\UploadFileByTencentCos\\TencentCos\\IClient\\IBucketClient.cs",
+              "RelativeToolTip": "..\\TencentCos\\IClient\\IBucketClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T01:17:42.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CosClient.cs",
+              "DocumentMoniker": "E:\\UploadFileByTencentCos\\TencentCos\\Client\\CosClient.cs",
+              "RelativeDocumentMoniker": "..\\TencentCos\\Client\\CosClient.cs",
+              "ToolTip": "E:\\UploadFileByTencentCos\\TencentCos\\Client\\CosClient.cs",
+              "RelativeToolTip": "..\\TencentCos\\Client\\CosClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T01:16:50.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BucketClient.cs",
+              "DocumentMoniker": "E:\\UploadFileByTencentCos\\TencentCos\\Client\\BucketClient.cs",
+              "RelativeDocumentMoniker": "..\\TencentCos\\Client\\BucketClient.cs",
+              "ToolTip": "E:\\UploadFileByTencentCos\\TencentCos\\Client\\BucketClient.cs",
+              "RelativeToolTip": "..\\TencentCos\\Client\\BucketClient.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAmwH4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T01:16:23.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CosSingleton.cs",
+              "DocumentMoniker": "E:\\UploadFileByTencentCos\\TencentCos\\Basic\\CosSingleton.cs",
+              "RelativeDocumentMoniker": "..\\TencentCos\\Basic\\CosSingleton.cs",
+              "ToolTip": "E:\\UploadFileByTencentCos\\TencentCos\\Basic\\CosSingleton.cs",
+              "RelativeToolTip": "..\\TencentCos\\Basic\\CosSingleton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T01:15:29.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CosResponse.cs",
+              "DocumentMoniker": "E:\\UploadFileByTencentCos\\TencentCos\\Basic\\CosResponse.cs",
+              "RelativeDocumentMoniker": "..\\TencentCos\\Basic\\CosResponse.cs",
+              "ToolTip": "E:\\UploadFileByTencentCos\\TencentCos\\Basic\\CosResponse.cs",
+              "RelativeToolTip": "..\\TencentCos\\Basic\\CosResponse.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T01:15:04.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CosBuilder.cs",
+              "DocumentMoniker": "E:\\UploadFileByTencentCos\\TencentCos\\Basic\\CosBuilder.cs",
+              "RelativeDocumentMoniker": "..\\TencentCos\\Basic\\CosBuilder.cs",
+              "ToolTip": "E:\\UploadFileByTencentCos\\TencentCos\\Basic\\CosBuilder.cs",
+              "RelativeToolTip": "..\\TencentCos\\Basic\\CosBuilder.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAgwCoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T01:13:51.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\UploadFileByTencentCos\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\UploadFileByTencentCos\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T01:10:16.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IBaseClient.cs",
+              "DocumentMoniker": "E:\\UploadFileByTencentCos\\TencentCos\\IClient\\IBaseClient.cs",
+              "RelativeDocumentMoniker": "..\\TencentCos\\IClient\\IBaseClient.cs",
+              "ToolTip": "E:\\UploadFileByTencentCos\\TencentCos\\IClient\\IBaseClient.cs",
+              "RelativeToolTip": "..\\TencentCos\\IClient\\IBaseClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T01:17:21.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TencentCos",
+              "DocumentMoniker": "E:\\UploadFileByTencentCos\\TencentCos\\TencentCos.csproj",
+              "RelativeDocumentMoniker": "..\\TencentCos\\TencentCos.csproj",
+              "ToolTip": "E:\\UploadFileByTencentCos\\TencentCos\\TencentCos.csproj",
+              "RelativeToolTip": "..\\TencentCos\\TencentCos.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-29T01:11:24.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

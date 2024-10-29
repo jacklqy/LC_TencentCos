@@ -1,0 +1,12 @@
+E:\UploadFileByTencentCos\TencentCos\bin\Debug\net8.0\TencentCos.deps.json
+E:\UploadFileByTencentCos\TencentCos\bin\Debug\net8.0\TencentCos.dll
+E:\UploadFileByTencentCos\TencentCos\bin\Debug\net8.0\TencentCos.pdb
+E:\UploadFileByTencentCos\TencentCos\obj\Debug\net8.0\TencentCos.csproj.AssemblyReference.cache
+E:\UploadFileByTencentCos\TencentCos\obj\Debug\net8.0\TencentCos.GeneratedMSBuildEditorConfig.editorconfig
+E:\UploadFileByTencentCos\TencentCos\obj\Debug\net8.0\TencentCos.AssemblyInfoInputs.cache
+E:\UploadFileByTencentCos\TencentCos\obj\Debug\net8.0\TencentCos.AssemblyInfo.cs
+E:\UploadFileByTencentCos\TencentCos\obj\Debug\net8.0\TencentCos.csproj.CoreCompileInputs.cache
+E:\UploadFileByTencentCos\TencentCos\obj\Debug\net8.0\TencentCos.dll
+E:\UploadFileByTencentCos\TencentCos\obj\Debug\net8.0\refint\TencentCos.dll
+E:\UploadFileByTencentCos\TencentCos\obj\Debug\net8.0\TencentCos.pdb
+E:\UploadFileByTencentCos\TencentCos\obj\Debug\net8.0\ref\TencentCos.dll

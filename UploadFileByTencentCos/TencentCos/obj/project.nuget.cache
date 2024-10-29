@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7amTcJMV3QwsIcsRMMiaffwOHNYdfXtJAYWXW8HCUnSd9wo4h6na7Ki9ZDAVmuonylzczx3wynRgbf+iiPVPMw==",
+  "success": true,
+  "projectFilePath": "E:\\UploadFileByTencentCos\\TencentCos\\TencentCos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\tencent.qcloud.cos.sdk\\5.4.40\\tencent.qcloud.cos.sdk.5.4.40.nupkg.sha512"
+  ],
+  "logs": []
+}
